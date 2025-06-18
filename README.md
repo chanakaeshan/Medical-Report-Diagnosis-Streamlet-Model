@@ -15,7 +15,7 @@ This Streamlit application is designed to assist in the analysis and diagnosis o
 ## Installation
 1. **Clone the repository**:
 ```
-https://github.com/jjdkasthuri/ayurvedic-.git
+https://github.com/chanakaeshan/Medical-Report-Diagnosis-Streamlet-Model.git
 
 cd report-summary
 ```
@@ -29,7 +29,7 @@ cd report-summary
 - **Streamlit**: For building the web interface.
 - **easyocr**: For OCR processing of images.
 - **PyMuPDF**: For text extraction from PDF files.
-- **LangChain**: For text splitting and summarization.
+- **LangChain**: For text splitting and summarisation.
 - **FAISS**: For vector-based information retrieval.
 - **Hugging Face**: For accessing the language models.
 
