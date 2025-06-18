@@ -17,7 +17,7 @@ This Streamlit application is designed to assist in the analysis and diagnosis o
 ```
 https://github.com/chanakaeshan/Medical-Report-Diagnosis-Streamlet-Model.git
 
-cd report-summary
+cd Medical-Report-Diagnosis-Streamlet-Model.git
 ```
 3.  **Install the required packages**:
 ```pip install -r requirements.txt```
