@@ -36,7 +36,7 @@ cd Medical-Report-Diagnosis-Streamlet-Model.git
 
 ## Usage
 - Upload a Report: Drag and drop a medical report in JPG, JPEG, or PDF format.
-- Generate Summary: Click on "Summarize Report" in the sidebar to generate a concise summary of the report.
+- Generate Summary: Click on "Summarise Report" in the sidebar to generate a concise summary of the report.
 - Ask Questions: Use the chat interface to ask specific questions about the report's content.
 
 
