@@ -8,7 +8,7 @@ This Streamlit application is designed to assist in the analysis and diagnosis o
 - **Text Extraction**:
   - For JPG/JPEG files: Optical Character Recognition (OCR) is performed using easyocr to extract text from the images.
   - For PDF files: Text is directly extracted using PyMuPDF.
-- **Text Summarisation**: Utilizes the meta-llama/Meta-Llama-3-8B-Instruct language model from Hugging Face to generate concise summaries of the extracted text.
+- **Text Summarisation**: Utilises the meta-llama/Meta-Llama-3-8B-Instruct language model from Hugging Face to generate concise summaries of the extracted text.
 - **Question-Answer Interface**: Enables users to interact with the summarised report by posing specific questions. The app uses a FAISS vector store to retrieve relevant information from the text and provide accurate answers.
 
 
