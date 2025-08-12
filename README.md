@@ -1,4 +1,4 @@
-# Medical Report Diagnosis Streamlet Chat App.
+<img width="1920" height="1020" alt="Report Summary - Google Chrome 5_4_2025 9_02_48 PM" src="https://github.com/user-attachments/assets/faf35220-7a35-4fe3-ad86-a6d195e976c8" /># Medical Report Diagnosis Streamlet Chat App.
 
 ### Overview
 This Streamlit application is designed to assist in the analysis and diagnosis of medical reports, specifically pathology laboratory blood test reports. The app allows users to upload medical reports in either JPG/JPEG or PDF formats. Once uploaded, the application extracts text from the report, summarises it using a powerful language model, and provides an interface for users to ask specific questions about the report's content.
@@ -25,6 +25,9 @@ cd Medical-Report-Diagnosis-Streamlet-Model.git
 4.  **Run the Streamlit app**:
 ```streamlit run src/report.py```
 
+<img width="1920" height="1020" alt="Report Summary - Google Chrome 5_4_2025 9_02_48 PM" src="https://github.com/user-attachments/assets/44ddac96-1157-4728-9d31-5761a4805773" />
+
+
 ## Dependencies
 - **Streamlit**: For building the web interface.
 - **easyocr**: For OCR processing of images.
@@ -47,3 +50,4 @@ cd Medical-Report-Diagnosis-Streamlet-Model.git
 
 
 Medical Report Diagnosis Streamlet Model
+
